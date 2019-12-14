@@ -1,7 +1,15 @@
 scrapy2
 ==============================
 
-A spider searches over 400 pages on a video game wiki.  Count the number of different types of enemies in each location, and output the results in a text file.
+Searches 400 wiki pages for a video game.
+
+Counts the number of types of enemies in each location.
+
+The output is saved in data/processed/output.txt.
+
+The python files are src/main/1.launch_spiders and src/main/2.analyze_html.
+
+Six pages are manually pulled and placed in src/main/manual_html.
 
 Project Organization
 ------------
