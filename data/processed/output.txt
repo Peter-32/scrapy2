@@ -1,0 +1,2899 @@
+Cliffs of Dohjok
+W: 4  R: 4  Mo:7
+N: 2  Me:3  E: 2
+A: 0  Ri:0  P: 4  D: 3
+physical: 15
+spell_users: 14
+healers: 7
+melee: 7
+nukers: 2
+
+Borlis Pass
+W: 6  R: 4  Mo:3
+N: 4  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 14
+healers: 3
+melee: 6
+nukers: 4
+
+Sorrow's Furnace
+W: 10  R: 8  Mo:8
+N: 6  Me:6  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 18
+spell_users: 27
+healers: 8
+melee: 10
+nukers: 7
+
+The Underworld (explorable area)
+W: 1  R: 0  Mo:0
+N: 1  Me:1  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 2
+healers: 0
+melee: 1
+nukers: 0
+
+Stolen Eggs
+W: 2  R: 0  Mo:0
+N: 1  Me:0  E: 0
+A: 1  Ri:1  P: 0  D: 0
+physical: 3
+spell_users: 2
+healers: 1
+melee: 3
+nukers: 0
+
+Iron Mines of Moladune
+W: 10  R: 5  Mo:7
+N: 5  Me:5  E: 6
+A: 0  Ri:0  P: 0  D: 0
+physical: 15
+spell_users: 23
+healers: 7
+melee: 10
+nukers: 6
+
+Arborstone (explorable area)
+W: 6  R: 4  Mo:2
+N: 6  Me:1  E: 4
+A: 2  Ri:2  P: 0  D: 0
+physical: 12
+spell_users: 15
+healers: 4
+melee: 8
+nukers: 4
+
+Varajar Fells
+W: 4  R: 1  Mo:7
+N: 4  Me:4  E: 5
+A: 1  Ri:0  P: 0  D: 3
+physical: 9
+spell_users: 20
+healers: 7
+melee: 8
+nukers: 5
+
+Monastery Overlook
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Mehtani Keys
+W: 7  R: 3  Mo:1
+N: 5  Me:3  E: 6
+A: 0  Ri:0  P: 2  D: 2
+physical: 14
+spell_users: 15
+healers: 1
+melee: 9
+nukers: 6
+
+Poisoned Outcrops
+W: 5  R: 3  Mo:2
+N: 3  Me:4  E: 6
+A: 0  Ri:1  P: 6  D: 5
+physical: 19
+spell_users: 16
+healers: 3
+melee: 10
+nukers: 6
+
+Rilohn Refuge
+W: 3  R: 1  Mo:2
+N: 1  Me:1  E: 3
+A: 0  Ri:0  P: 2  D: 1
+physical: 7
+spell_users: 7
+healers: 2
+melee: 4
+nukers: 3
+
+Tears of the Fallen
+W: 0  R: 0  Mo:0
+N: 2  Me:0  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 4
+healers: 0
+melee: 0
+nukers: 2
+
+Warning Kehanni
+W: 1  R: 1  Mo:1
+N: 1  Me:0  E: 1
+A: 0  Ri:0  P: 1  D: 0
+physical: 3
+spell_users: 3
+healers: 1
+melee: 1
+nukers: 1
+
+Watchtower Coast
+W: 1  R: 3  Mo:2
+N: 2  Me:3  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 9
+healers: 2
+melee: 1
+nukers: 2
+
+The Threat Grows
+W: 1  R: 1  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:1  P: 0  D: 0
+physical: 2
+spell_users: 1
+healers: 1
+melee: 1
+nukers: 0
+
+Jokanur Diggings
+W: 2  R: 0  Mo:1
+N: 1  Me:2  E: 1
+A: 0  Ri:0  P: 2  D: 1
+physical: 5
+spell_users: 5
+healers: 1
+melee: 3
+nukers: 1
+
+Maishang Hills
+W: 1  R: 2  Mo:1
+N: 2  Me:0  E: 3
+A: 2  Ri:1  P: 0  D: 0
+physical: 5
+spell_users: 7
+healers: 2
+melee: 3
+nukers: 3
+
+Dragon's Gullet
+W: 4  R: 1  Mo:1
+N: 3  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 10
+healers: 1
+melee: 4
+nukers: 3
+
+Zos Shivros Channel
+W: 3  R: 3  Mo:0
+N: 1  Me:2  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 8
+spell_users: 7
+healers: 2
+melee: 5
+nukers: 2
+
+Abaddon's Gate
+W: 1  R: 0  Mo:0
+N: 0  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 3
+spell_users: 2
+healers: 0
+melee: 2
+nukers: 1
+
+Spearhead Peak
+W: 4  R: 4  Mo:2
+N: 3  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 12
+healers: 2
+melee: 4
+nukers: 4
+
+Tunnels Below Cantha
+W: 3  R: 1  Mo:1
+N: 1  Me:0  E: 0
+A: 1  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 2
+healers: 1
+melee: 4
+nukers: 0
+
+Gyala Hatchery
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 1  Ri:2  P: 0  D: 0
+physical: 5
+spell_users: 10
+healers: 4
+melee: 3
+nukers: 2
+
+All's Well That Ends Well
+W: 0  R: 5  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Dry Top
+W: 2  R: 2  Mo:1
+N: 1  Me:0  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 3
+healers: 1
+melee: 2
+nukers: 1
+
+Amatz Basin
+W: 1  R: 1  Mo:0
+N: 0  Me:1  E: 1
+A: 0  Ri:1  P: 0  D: 0
+physical: 2
+spell_users: 3
+healers: 1
+melee: 1
+nukers: 1
+
+Deldrimor Bowl
+W: 3  R: 2  Mo:2
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 5
+healers: 2
+melee: 3
+nukers: 1
+
+Silent Surf
+W: 3  R: 3  Mo:4
+N: 4  Me:4  E: 4
+A: 5  Ri:4  P: 0  D: 0
+physical: 11
+spell_users: 20
+healers: 8
+melee: 8
+nukers: 4
+
+Battle in the Sewers
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 1  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Riven Earth
+W: 0  R: 4  Mo:1
+N: 2  Me:1  E: 3
+A: 3  Ri:1  P: 1  D: 2
+physical: 10
+spell_users: 8
+healers: 2
+melee: 5
+nukers: 3
+
+Bahdok Caverns
+W: 6  R: 3  Mo:3
+N: 7  Me:2  E: 7
+A: 0  Ri:0  P: 5  D: 6
+physical: 20
+spell_users: 19
+healers: 3
+melee: 12
+nukers: 7
+
+Diessa Lowlands
+W: 8  R: 6  Mo:6
+N: 5  Me:7  E: 9
+A: 0  Ri:0  P: 0  D: 0
+physical: 14
+spell_users: 27
+healers: 6
+melee: 8
+nukers: 9
+
+Perdition Rock
+W: 8  R: 4  Mo:4
+N: 5  Me:8  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 24
+healers: 4
+melee: 8
+nukers: 7
+
+Dreadnought's Drift
+W: 3  R: 1  Mo:3
+N: 2  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 7
+healers: 3
+melee: 3
+nukers: 1
+
+Sorrow's Furnace
+W: 10  R: 8  Mo:8
+N: 6  Me:6  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 18
+spell_users: 27
+healers: 8
+melee: 10
+nukers: 7
+
+Salt Flats
+W: 3  R: 3  Mo:2
+N: 3  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 11
+healers: 2
+melee: 3
+nukers: 3
+
+Jennur's Horde
+W: 4  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 0  Ri:0  P: 2  D: 2
+physical: 10
+spell_users: 8
+healers: 2
+melee: 6
+nukers: 2
+
+Traveler's Vale
+W: 4  R: 3  Mo:2
+N: 2  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 8
+healers: 2
+melee: 4
+nukers: 2
+
+The Deep
+W: 2  R: 3  Mo:2
+N: 1  Me:2  E: 1
+A: 5  Ri:3  P: 0  D: 0
+physical: 10
+spell_users: 9
+healers: 5
+melee: 7
+nukers: 1
+
+Elona Reach
+W: 3  R: 3  Mo:2
+N: 2  Me:1  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 7
+healers: 2
+melee: 3
+nukers: 2
+
+Heart or Mind: Ronjok in Danger
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 4
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Vehtendi Valley
+W: 4  R: 3  Mo:3
+N: 4  Me:4  E: 3
+A: 1  Ri:1  P: 3  D: 4
+physical: 15
+spell_users: 15
+healers: 4
+melee: 9
+nukers: 3
+
+The Last Day Dawns
+W: 6  R: 2  Mo:2
+N: 3  Me:2  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 12
+healers: 2
+melee: 6
+nukers: 5
+
+The Hall of Heroes
+W: 3  R: 1  Mo:1
+N: 2  Me:4  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 9
+healers: 1
+melee: 3
+nukers: 2
+
+Forum Highlands
+W: 5  R: 3  Mo:4
+N: 3  Me:3  E: 4
+A: 0  Ri:1  P: 3  D: 3
+physical: 14
+spell_users: 15
+healers: 5
+melee: 8
+nukers: 4
+
+No Me, No Kormir
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 3
+healers: 1
+melee: 1
+nukers: 0
+
+Kessex Peak
+W: 6  R: 1  Mo:4
+N: 4  Me:3  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 12
+healers: 4
+melee: 6
+nukers: 1
+
+Ferndale
+W: 5  R: 4  Mo:4
+N: 4  Me:5  E: 3
+A: 6  Ri:3  P: 0  D: 0
+physical: 15
+spell_users: 19
+healers: 7
+melee: 11
+nukers: 3
+
+Kinya Province
+W: 2  R: 2  Mo:3
+N: 2  Me:3  E: 5
+A: 2  Ri:4  P: 0  D: 0
+physical: 6
+spell_users: 17
+healers: 7
+melee: 4
+nukers: 5
+
+Magus Stones
+W: 4  R: 3  Mo:2
+N: 2  Me:4  E: 1
+A: 0  Ri:1  P: 2  D: 0
+physical: 9
+spell_users: 10
+healers: 3
+melee: 4
+nukers: 1
+
+Unwaking Waters (explorable area)
+W: 3  R: 1  Mo:0
+N: 2  Me:2  E: 2
+A: 5  Ri:1  P: 0  D: 0
+physical: 9
+spell_users: 7
+healers: 1
+melee: 8
+nukers: 2
+
+Crystal Overlook
+W: 5  R: 2  Mo:2
+N: 4  Me:1  E: 3
+A: 1  Ri:1  P: 2  D: 2
+physical: 12
+spell_users: 11
+healers: 3
+melee: 8
+nukers: 3
+
+Finding The Oracle
+W: 1  R: 0  Mo:0
+N: 0  Me:1  E: 1
+A: 2  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 2
+healers: 0
+melee: 3
+nukers: 1
+
+Domain of Pain
+W: 5  R: 4  Mo:4
+N: 3  Me:4  E: 4
+A: 0  Ri:0  P: 2  D: 4
+physical: 15
+spell_users: 15
+healers: 4
+melee: 9
+nukers: 4
+
+Tasca's Demise
+W: 3  R: 2  Mo:1
+N: 2  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 6
+healers: 1
+melee: 3
+nukers: 1
+
+Leaving a Legacy
+W: 1  R: 1  Mo:1
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 1  D: 0
+physical: 3
+spell_users: 1
+healers: 1
+melee: 1
+nukers: 0
+
+Pockmark Flats
+W: 3  R: 3  Mo:2
+N: 2  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 2
+melee: 3
+nukers: 3
+
+The Honorable General
+W: 1  R: 0  Mo:1
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 1  D: 0
+physical: 2
+spell_users: 1
+healers: 1
+melee: 1
+nukers: 0
+
+Frozen Forest
+W: 7  R: 6  Mo:5
+N: 4  Me:2  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 13
+spell_users: 15
+healers: 5
+melee: 7
+nukers: 4
+
+City Under Attack
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 1  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Hero Tutorial
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Chahbek Village
+W: 1  R: 2  Mo:1
+N: 0  Me:0  E: 1
+A: 0  Ri:0  P: 1  D: 0
+physical: 4
+spell_users: 2
+healers: 1
+melee: 1
+nukers: 1
+
+Domain of Fear
+W: 4  R: 2  Mo:2
+N: 1  Me:2  E: 5
+A: 0  Ri:0  P: 2  D: 2
+physical: 10
+spell_users: 10
+healers: 2
+melee: 6
+nukers: 5
+
+Nahpui Quarter
+W: 1  R: 1  Mo:2
+N: 2  Me:2  E: 2
+A: 0  Ri:1  P: 0  D: 0
+physical: 2
+spell_users: 9
+healers: 3
+melee: 1
+nukers: 2
+
+Venta Cemetery
+W: 1  R: 2  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 2  D: 1
+physical: 6
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Sunward Marches
+W: 6  R: 3  Mo:4
+N: 2  Me:4  E: 3
+A: 0  Ri:0  P: 5  D: 4
+physical: 18
+spell_users: 13
+healers: 4
+melee: 10
+nukers: 3
+
+Snake Dance
+W: 5  R: 3  Mo:6
+N: 3  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 15
+healers: 6
+melee: 5
+nukers: 3
+
+A Deal's a Deal
+W: 3  R: 0  Mo:3
+N: 2  Me:1  E: 0
+A: 0  Ri:0  P: 1  D: 0
+physical: 4
+spell_users: 6
+healers: 3
+melee: 3
+nukers: 0
+
+Ice Floe
+W: 3  R: 4  Mo:5
+N: 2  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 14
+healers: 5
+melee: 3
+nukers: 4
+
+The Arid Sea
+W: 5  R: 3  Mo:2
+N: 2  Me:1  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 7
+healers: 2
+melee: 5
+nukers: 2
+
+Imperial Sanctum
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 2  Ri:1  P: 0  D: 0
+physical: 4
+spell_users: 5
+healers: 2
+melee: 3
+nukers: 1
+
+The Catacombs
+W: 4  R: 1  Mo:0
+N: 3  Me:2  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 5
+healers: 0
+melee: 4
+nukers: 0
+
+Issnur Isles
+W: 4  R: 3  Mo:2
+N: 2  Me:3  E: 4
+A: 0  Ri:0  P: 2  D: 2
+physical: 11
+spell_users: 11
+healers: 2
+melee: 6
+nukers: 4
+
+Bloodstone Fen
+W: 5  R: 6  Mo:4
+N: 5  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 11
+spell_users: 15
+healers: 4
+melee: 5
+nukers: 3
+
+Drakkar Lake
+W: 8  R: 4  Mo:5
+N: 5  Me:6  E: 2
+A: 0  Ri:0  P: 0  D: 2
+physical: 14
+spell_users: 18
+healers: 5
+melee: 10
+nukers: 2
+
+Holdings of Chokhin
+W: 2  R: 3  Mo:2
+N: 1  Me:1  E: 3
+A: 1  Ri:0  P: 2  D: 1
+physical: 9
+spell_users: 7
+healers: 2
+melee: 4
+nukers: 3
+
+Blacktide Den
+W: 3  R: 2  Mo:3
+N: 4  Me:0  E: 3
+A: 0  Ri:0  P: 2  D: 2
+physical: 9
+spell_users: 10
+healers: 3
+melee: 5
+nukers: 3
+
+Divinity Coast
+W: 6  R: 4  Mo:4
+N: 4  Me:3  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 18
+healers: 4
+melee: 6
+nukers: 7
+
+The Black Curtain
+W: 4  R: 3  Mo:4
+N: 4  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 14
+healers: 4
+melee: 4
+nukers: 3
+
+Gate of Madness
+W: 8  R: 3  Mo:4
+N: 5  Me:3  E: 7
+A: 2  Ri:1  P: 3  D: 3
+physical: 19
+spell_users: 20
+healers: 5
+melee: 13
+nukers: 7
+
+The Eternal Grove
+W: 3  R: 3  Mo:1
+N: 1  Me:1  E: 2
+A: 2  Ri:1  P: 0  D: 0
+physical: 8
+spell_users: 6
+healers: 2
+melee: 5
+nukers: 2
+
+Flame Temple Corridor
+W: 2  R: 1  Mo:1
+N: 1  Me:1  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 5
+healers: 1
+melee: 2
+nukers: 2
+
+Sacnoth Valley
+W: 9  R: 1  Mo:4
+N: 4  Me:3  E: 14
+A: 0  Ri:5  P: 2  D: 0
+physical: 12
+spell_users: 30
+healers: 9
+melee: 9
+nukers: 14
+
+Regent Valley
+W: 7  R: 1  Mo:3
+N: 2  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 9
+healers: 3
+melee: 7
+nukers: 2
+
+Minister Cho's Estate
+W: 9  R: 0  Mo:0
+N: 1  Me:0  E: 1
+A: 0  Ri:1  P: 0  D: 0
+physical: 9
+spell_users: 3
+healers: 1
+melee: 9
+nukers: 1
+
+Regent Valley (pre-Searing)
+W: 3  R: 6  Mo:4
+N: 0  Me:0  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 7
+healers: 4
+melee: 3
+nukers: 3
+
+The Ebony Citadel of Mallyx
+W: 5  R: 3  Mo:2
+N: 3  Me:4  E: 4
+A: 1  Ri:0  P: 2  D: 4
+physical: 15
+spell_users: 13
+healers: 2
+melee: 10
+nukers: 4
+
+Beneath Lion's Arch
+W: 5  R: 1  Mo:2
+N: 0  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 4
+healers: 2
+melee: 5
+nukers: 1
+
+Arborstone
+W: 7  R: 4  Mo:2
+N: 3  Me:2  E: 4
+A: 2  Ri:3  P: 0  D: 0
+physical: 13
+spell_users: 14
+healers: 5
+melee: 9
+nukers: 4
+
+Dalada Uplands
+W: 5  R: 2  Mo:6
+N: 1  Me:3  E: 9
+A: 1  Ri:1  P: 1  D: 2
+physical: 11
+spell_users: 20
+healers: 7
+melee: 8
+nukers: 9
+
+The Underworld
+W: 5  R: 2  Mo:1
+N: 5  Me:8  E: 7
+A: 1  Ri:0  P: 0  D: 1
+physical: 9
+spell_users: 21
+healers: 1
+melee: 7
+nukers: 7
+
+Joko's Domain
+W: 8  R: 4  Mo:3
+N: 3  Me:5  E: 5
+A: 1  Ri:0  P: 5  D: 4
+physical: 22
+spell_users: 16
+healers: 3
+melee: 13
+nukers: 5
+
+Aurora Glade
+W: 5  R: 7  Mo:3
+N: 4  Me:4  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 15
+healers: 3
+melee: 5
+nukers: 4
+
+Wajjun Bazaar
+W: 2  R: 1  Mo:3
+N: 2  Me:1  E: 2
+A: 1  Ri:1  P: 0  D: 0
+physical: 4
+spell_users: 9
+healers: 4
+melee: 3
+nukers: 2
+
+Unwaking Waters
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 4
+melee: 4
+nukers: 2
+
+Abaddon's Mouth
+W: 3  R: 4  Mo:4
+N: 6  Me:4  E: 6
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 20
+healers: 4
+melee: 3
+nukers: 6
+
+Defend Droknar's Forge
+W: 1  R: 0  Mo:1
+N: 2  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 5
+healers: 1
+melee: 1
+nukers: 1
+
+The Foundry of Failed Creations
+W: 2  R: 1  Mo:1
+N: 2  Me:4  E: 5
+A: 1  Ri:0  P: 1  D: 3
+physical: 8
+spell_users: 12
+healers: 1
+melee: 6
+nukers: 5
+
+To Kill a Demon
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 1
+healers: 0
+melee: 0
+nukers: 1
+
+Scoundrel's Rise
+W: 0  R: 0  Mo:0
+N: 2  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 4
+healers: 0
+melee: 0
+nukers: 1
+
+Defend North Kryta Province
+W: 0  R: 1  Mo:0
+N: 2  Me:0  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 5
+healers: 0
+melee: 0
+nukers: 3
+
+Reed Bog
+W: 1  R: 3  Mo:1
+N: 1  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 2
+healers: 1
+melee: 1
+nukers: 0
+
+Tangle Root
+W: 3  R: 3  Mo:2
+N: 3  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 9
+healers: 2
+melee: 3
+nukers: 2
+
+Dunes of Despair
+W: 6  R: 4  Mo:2
+N: 3  Me:3  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 10
+healers: 2
+melee: 6
+nukers: 2
+
+Mourning Veil Falls
+W: 3  R: 1  Mo:1
+N: 4  Me:5  E: 5
+A: 3  Ri:3  P: 0  D: 0
+physical: 7
+spell_users: 18
+healers: 4
+melee: 6
+nukers: 5
+
+Gandara, the Moon Fortress
+W: 2  R: 2  Mo:1
+N: 2  Me:0  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 6
+spell_users: 4
+healers: 1
+melee: 3
+nukers: 1
+
+To Vabbi!
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 2
+A: 0  Ri:0  P: 1  D: 1
+physical: 4
+spell_users: 5
+healers: 1
+melee: 2
+nukers: 2
+
+Nolani Academy
+W: 9  R: 4  Mo:2
+N: 3  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 13
+spell_users: 12
+healers: 2
+melee: 9
+nukers: 4
+
+Domain of Anguish
+W: 2  R: 1  Mo:3
+N: 4  Me:3  E: 4
+A: 2  Ri:3  P: 5  D: 2
+physical: 12
+spell_users: 17
+healers: 6
+melee: 6
+nukers: 4
+
+Gate of Desolation
+W: 4  R: 3  Mo:2
+N: 3  Me:4  E: 3
+A: 0  Ri:0  P: 3  D: 3
+physical: 13
+spell_users: 12
+healers: 2
+melee: 7
+nukers: 3
+
+Barbarous Shore
+W: 5  R: 1  Mo:3
+N: 3  Me:3  E: 3
+A: 0  Ri:1  P: 4  D: 2
+physical: 12
+spell_users: 13
+healers: 4
+melee: 7
+nukers: 3
+
+A Land of Heroes
+W: 4  R: 3  Mo:4
+N: 3  Me:2  E: 3
+A: 0  Ri:0  P: 3  D: 4
+physical: 14
+spell_users: 12
+healers: 4
+melee: 8
+nukers: 3
+
+Yatendi Canyons
+W: 3  R: 4  Mo:3
+N: 5  Me:3  E: 5
+A: 0  Ri:0  P: 3  D: 4
+physical: 14
+spell_users: 16
+healers: 3
+melee: 7
+nukers: 5
+
+Sage Lands
+W: 1  R: 5  Mo:1
+N: 4  Me:2  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 1
+melee: 1
+nukers: 3
+
+Saoshang Trail
+W: 0  R: 0  Mo:4
+N: 4  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 8
+healers: 4
+melee: 0
+nukers: 0
+
+Ettin's Back
+W: 3  R: 4  Mo:3
+N: 3  Me:1  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 10
+healers: 3
+melee: 3
+nukers: 3
+
+Dejarin Estate
+W: 5  R: 4  Mo:2
+N: 2  Me:1  E: 2
+A: 1  Ri:1  P: 3  D: 2
+physical: 15
+spell_users: 8
+healers: 3
+melee: 8
+nukers: 2
+
+Haiju Lagoon
+W: 2  R: 5  Mo:2
+N: 2  Me:5  E: 4
+A: 2  Ri:5  P: 0  D: 0
+physical: 9
+spell_users: 18
+healers: 7
+melee: 4
+nukers: 4
+
+The Courtyard
+W: 2  R: 0  Mo:0
+N: 1  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 4
+healers: 0
+melee: 2
+nukers: 1
+
+Dzagonur Bastion
+W: 3  R: 2  Mo:3
+N: 2  Me:1  E: 2
+A: 0  Ri:0  P: 2  D: 2
+physical: 9
+spell_users: 8
+healers: 3
+melee: 5
+nukers: 2
+
+Ascalon Foothills
+W: 1  R: 1  Mo:0
+N: 0  Me:0  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 2
+healers: 0
+melee: 1
+nukers: 2
+
+Rhea's Crater
+W: 4  R: 3  Mo:2
+N: 3  Me:3  E: 4
+A: 5  Ri:4  P: 0  D: 0
+physical: 12
+spell_users: 16
+healers: 6
+melee: 9
+nukers: 4
+
+Bad Tide Rising
+W: 1  R: 0  Mo:0
+N: 0  Me:1  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 1
+healers: 0
+melee: 1
+nukers: 0
+
+Jaya Bluffs
+W: 3  R: 1  Mo:1
+N: 2  Me:0  E: 1
+A: 2  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 4
+healers: 1
+melee: 5
+nukers: 1
+
+Grenth's Footprint
+W: 6  R: 4  Mo:3
+N: 4  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 14
+healers: 3
+melee: 6
+nukers: 4
+
+Hell's Precipice
+W: 7  R: 1  Mo:0
+N: 4  Me:1  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 9
+healers: 0
+melee: 7
+nukers: 4
+
+Silverwood
+W: 3  R: 3  Mo:3
+N: 2  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 8
+healers: 3
+melee: 3
+nukers: 1
+
+North Kryta Province
+W: 4  R: 3  Mo:4
+N: 4  Me:5  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 17
+healers: 4
+melee: 4
+nukers: 4
+
+The Great Northern Wall
+W: 9  R: 5  Mo:4
+N: 4  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 14
+spell_users: 15
+healers: 4
+melee: 9
+nukers: 4
+
+Iron Horse Mine
+W: 6  R: 2  Mo:2
+N: 3  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 9
+healers: 2
+melee: 6
+nukers: 2
+
+Pogahn Passage
+W: 4  R: 1  Mo:1
+N: 1  Me:3  E: 3
+A: 0  Ri:0  P: 3  D: 2
+physical: 10
+spell_users: 8
+healers: 1
+melee: 6
+nukers: 3
+
+Griffon's Mouth
+W: 2  R: 0  Mo:1
+N: 0  Me:0  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 3
+healers: 1
+melee: 2
+nukers: 2
+
+Dragon's Throat
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 4
+melee: 4
+nukers: 2
+
+Sanctum Cay
+W: 6  R: 6  Mo:4
+N: 3  Me:3  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 15
+healers: 4
+melee: 6
+nukers: 5
+
+Isle of the Dead (quest)
+W: 3  R: 0  Mo:0
+N: 3  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 3
+healers: 0
+melee: 3
+nukers: 0
+
+The Great Escape
+W: 0  R: 1  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Mineral Springs
+W: 6  R: 4  Mo:5
+N: 7  Me:3  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 20
+healers: 5
+melee: 6
+nukers: 5
+
+Riverside Province
+W: 8  R: 7  Mo:5
+N: 5  Me:5  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 15
+spell_users: 19
+healers: 5
+melee: 8
+nukers: 4
+
+Altrumm Ruins
+W: 4  R: 2  Mo:3
+N: 2  Me:1  E: 3
+A: 3  Ri:2  P: 0  D: 0
+physical: 9
+spell_users: 11
+healers: 5
+melee: 7
+nukers: 3
+
+Dajkah Inlet
+W: 3  R: 2  Mo:2
+N: 2  Me:1  E: 2
+A: 0  Ri:0  P: 1  D: 2
+physical: 8
+spell_users: 7
+healers: 2
+melee: 5
+nukers: 2
+
+Mount Qinkai
+W: 4  R: 3  Mo:2
+N: 2  Me:0  E: 0
+A: 2  Ri:4  P: 0  D: 0
+physical: 9
+spell_users: 8
+healers: 6
+melee: 6
+nukers: 0
+
+Marga Coast
+W: 5  R: 5  Mo:4
+N: 3  Me:4  E: 5
+A: 1  Ri:0  P: 5  D: 5
+physical: 21
+spell_users: 16
+healers: 4
+melee: 11
+nukers: 5
+
+Nundu Bay
+W: 3  R: 1  Mo:2
+N: 1  Me:1  E: 2
+A: 0  Ri:0  P: 2  D: 2
+physical: 8
+spell_users: 6
+healers: 2
+melee: 5
+nukers: 2
+
+Arbor Bay
+W: 3  R: 1  Mo:2
+N: 3  Me:4  E: 4
+A: 0  Ri:1  P: 1  D: 1
+physical: 6
+spell_users: 14
+healers: 3
+melee: 4
+nukers: 4
+
+The Hidden City of Ahdashim
+W: 2  R: 2  Mo:1
+N: 2  Me:3  E: 3
+A: 0  Ri:0  P: 4  D: 4
+physical: 12
+spell_users: 9
+healers: 1
+melee: 6
+nukers: 3
+
+Depths of Madness
+W: 5  R: 3  Mo:4
+N: 4  Me:3  E: 4
+A: 1  Ri:1  P: 2  D: 3
+physical: 14
+spell_users: 16
+healers: 5
+melee: 9
+nukers: 4
+
+Remains of Sahlahja
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Vehjin Mines
+W: 5  R: 1  Mo:1
+N: 4  Me:1  E: 0
+A: 0  Ri:0  P: 3  D: 3
+physical: 12
+spell_users: 6
+healers: 1
+melee: 8
+nukers: 0
+
+Isle of the Nameless
+W: 7  R: 4  Mo:4
+N: 15  Me:3  E: 2
+A: 0  Ri:1  P: 0  D: 0
+physical: 11
+spell_users: 25
+healers: 5
+melee: 7
+nukers: 2
+
+Sparkfly Swamp
+W: 3  R: 1  Mo:1
+N: 1  Me:2  E: 2
+A: 1  Ri:2  P: 2  D: 3
+physical: 10
+spell_users: 8
+healers: 3
+melee: 7
+nukers: 2
+
+The Iron Truth
+W: 2  R: 1  Mo:1
+N: 1  Me:0  E: 1
+A: 0  Ri:0  P: 1  D: 0
+physical: 4
+spell_users: 3
+healers: 1
+melee: 2
+nukers: 1
+
+The Eternal Grove (explorable area)
+W: 4  R: 2  Mo:3
+N: 1  Me:3  E: 4
+A: 3  Ri:6  P: 0  D: 0
+physical: 9
+spell_users: 17
+healers: 9
+melee: 7
+nukers: 4
+
+Attack of the Nornbear
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Island of Shehkah
+W: 2  R: 1  Mo:1
+N: 0  Me:0  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 2
+healers: 1
+melee: 2
+nukers: 1
+
+Ruins of Morah
+W: 0  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 2  D: 1
+physical: 4
+spell_users: 4
+healers: 1
+melee: 1
+nukers: 1
+
+Ravenheart Gloom
+W: 3  R: 2  Mo:2
+N: 2  Me:4  E: 2
+A: 0  Ri:0  P: 1  D: 1
+physical: 7
+spell_users: 10
+healers: 2
+melee: 4
+nukers: 2
+
+Nightfallen Jahai
+W: 2  R: 2  Mo:2
+N: 2  Me:4  E: 3
+A: 2  Ri:0  P: 4  D: 5
+physical: 15
+spell_users: 11
+healers: 2
+melee: 9
+nukers: 3
+
+Grothmar Wardowns
+W: 4  R: 5  Mo:6
+N: 2  Me:3  E: 8
+A: 2  Ri:2  P: 2  D: 2
+physical: 15
+spell_users: 21
+healers: 8
+melee: 8
+nukers: 8
+
+War Preparations (Recruit Training)
+W: 1  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 1
+physical: 2
+spell_users: 0
+healers: 0
+melee: 2
+nukers: 0
+
+The Fissure of Woe
+W: 8  R: 5  Mo:5
+N: 6  Me:5  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 13
+spell_users: 23
+healers: 5
+melee: 8
+nukers: 7
+
+Raisu Palace
+W: 2  R: 2  Mo:2
+N: 3  Me:2  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 7
+spell_users: 11
+healers: 4
+melee: 5
+nukers: 2
+
+Pongmei Valley
+W: 5  R: 5  Mo:3
+N: 4  Me:2  E: 3
+A: 3  Ri:4  P: 0  D: 0
+physical: 13
+spell_users: 16
+healers: 7
+melee: 8
+nukers: 3
+
+For a Price
+W: 1  R: 1  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+Plains of Jarin
+W: 6  R: 1  Mo:0
+N: 3  Me:2  E: 2
+A: 0  Ri:0  P: 3  D: 2
+physical: 12
+spell_users: 7
+healers: 0
+melee: 8
+nukers: 2
+
+The Wilds
+W: 5  R: 9  Mo:4
+N: 4  Me:4  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 14
+spell_users: 17
+healers: 4
+melee: 5
+nukers: 5
+
+Eastern Frontier
+W: 7  R: 4  Mo:4
+N: 4  Me:2  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 11
+spell_users: 13
+healers: 4
+melee: 7
+nukers: 3
+
+The Ruptured Heart
+W: 6  R: 5  Mo:3
+N: 3  Me:4  E: 3
+A: 0  Ri:0  P: 4  D: 4
+physical: 19
+spell_users: 13
+healers: 3
+melee: 10
+nukers: 3
+
+Zen Daijun
+W: 2  R: 3  Mo:4
+N: 2  Me:1  E: 1
+A: 1  Ri:2  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 6
+melee: 3
+nukers: 1
+
+The Fissure of Woe
+W: 8  R: 5  Mo:5
+N: 6  Me:5  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 13
+spell_users: 23
+healers: 5
+melee: 8
+nukers: 7
+
+Churrhir Fields
+W: 0  R: 0  Mo:0
+N: 0  Me:1  E: 0
+A: 0  Ri:0  P: 0  D: 1
+physical: 1
+spell_users: 1
+healers: 0
+melee: 1
+nukers: 0
+
+Urgoz's Warren
+W: 2  R: 3  Mo:6
+N: 1  Me:1  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 8
+spell_users: 12
+healers: 8
+melee: 5
+nukers: 2
+
+The Shattered Ravines
+W: 6  R: 8  Mo:4
+N: 4  Me:2  E: 4
+A: 0  Ri:0  P: 3  D: 3
+physical: 20
+spell_users: 14
+healers: 4
+melee: 9
+nukers: 4
+
+Wizard's Folly
+W: 2  R: 1  Mo:3
+N: 0  Me:0  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 7
+healers: 3
+melee: 2
+nukers: 4
+
+Thunderhead Keep
+W: 8  R: 6  Mo:8
+N: 6  Me:6  E: 6
+A: 0  Ri:0  P: 0  D: 0
+physical: 14
+spell_users: 26
+healers: 8
+melee: 8
+nukers: 6
+
+Turai's Procession
+W: 6  R: 4  Mo:4
+N: 2  Me:3  E: 4
+A: 0  Ri:0  P: 3  D: 4
+physical: 17
+spell_users: 13
+healers: 4
+melee: 10
+nukers: 4
+
+The Northlands
+W: 2  R: 2  Mo:4
+N: 2  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 9
+healers: 4
+melee: 2
+nukers: 1
+
+Caverns Below Kamadan
+W: 4  R: 2  Mo:0
+N: 0  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 0
+physical: 7
+spell_users: 2
+healers: 0
+melee: 4
+nukers: 1
+
+The Underworld
+W: 5  R: 2  Mo:1
+N: 5  Me:8  E: 7
+A: 1  Ri:0  P: 0  D: 1
+physical: 9
+spell_users: 21
+healers: 1
+melee: 7
+nukers: 7
+
+Bjora Marches
+W: 6  R: 2  Mo:2
+N: 5  Me:5  E: 2
+A: 1  Ri:0  P: 0  D: 3
+physical: 12
+spell_users: 14
+healers: 2
+melee: 10
+nukers: 2
+
+Lornar's Pass
+W: 6  R: 5  Mo:4
+N: 7  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 11
+spell_users: 18
+healers: 4
+melee: 6
+nukers: 4
+
+Anvil Rock
+W: 6  R: 3  Mo:3
+N: 3  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 9
+healers: 3
+melee: 6
+nukers: 1
+
+Majesty's Rest
+W: 3  R: 6  Mo:3
+N: 5  Me:3  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 13
+healers: 3
+melee: 3
+nukers: 2
+
+Lakeside County
+W: 4  R: 6  Mo:1
+N: 0  Me:0  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 8
+healers: 1
+melee: 4
+nukers: 7
+
+Sunqua Vale
+W: 2  R: 3  Mo:5
+N: 8  Me:1  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 7
+spell_users: 18
+healers: 7
+melee: 4
+nukers: 2
+
+Augury Rock
+W: 0  R: 0  Mo:1
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 1
+healers: 1
+melee: 0
+nukers: 0
+
+Stygian Veil
+W: 6  R: 4  Mo:3
+N: 4  Me:3  E: 3
+A: 0  Ri:0  P: 1  D: 3
+physical: 14
+spell_users: 13
+healers: 3
+melee: 9
+nukers: 3
+
+The Shadow Nexus
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 3
+A: 0  Ri:0  P: 2  D: 2
+physical: 8
+spell_users: 9
+healers: 2
+melee: 4
+nukers: 3
+
+Zen Daijun (explorable area)
+W: 1  R: 1  Mo:2
+N: 1  Me:1  E: 1
+A: 1  Ri:1  P: 0  D: 0
+physical: 3
+spell_users: 6
+healers: 3
+melee: 2
+nukers: 1
+
+The Breach
+W: 5  R: 3  Mo:5
+N: 4  Me:2  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 8
+spell_users: 15
+healers: 5
+melee: 5
+nukers: 4
+
+Gyala Hatchery (explorable area)
+W: 6  R: 3  Mo:1
+N: 3  Me:2  E: 2
+A: 4  Ri:5  P: 0  D: 0
+physical: 13
+spell_users: 13
+healers: 6
+melee: 10
+nukers: 2
+
+Ice Caves of Sorrow
+W: 9  R: 3  Mo:4
+N: 3  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 14
+healers: 4
+melee: 9
+nukers: 4
+
+Tihark Orchard
+W: 2  R: 1  Mo:0
+N: 1  Me:0  E: 0
+A: 0  Ri:0  P: 1  D: 0
+physical: 4
+spell_users: 1
+healers: 0
+melee: 2
+nukers: 0
+
+Domain of Secrets
+W: 5  R: 3  Mo:3
+N: 4  Me:5  E: 5
+A: 0  Ri:2  P: 3  D: 4
+physical: 15
+spell_users: 19
+healers: 5
+melee: 9
+nukers: 5
+
+Grand Court of Sebelkeh
+W: 2  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 5
+spell_users: 4
+healers: 1
+melee: 3
+nukers: 1
+
+Arkjok Ward
+W: 7  R: 3  Mo:3
+N: 3  Me:4  E: 5
+A: 0  Ri:1  P: 7  D: 3
+physical: 20
+spell_users: 16
+healers: 4
+melee: 10
+nukers: 5
+
+A Meeting With the Emperor
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 0
+healers: 0
+melee: 0
+nukers: 0
+
+Thirsty River
+W: 3  R: 4  Mo:2
+N: 3  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 9
+healers: 2
+melee: 3
+nukers: 2
+
+Moddok Crevice
+W: 5  R: 4  Mo:4
+N: 1  Me:0  E: 2
+A: 0  Ri:0  P: 4  D: 0
+physical: 13
+spell_users: 7
+healers: 4
+melee: 5
+nukers: 2
+
+Old Ascalon
+W: 6  R: 4  Mo:4
+N: 3  Me:2  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 12
+healers: 4
+melee: 6
+nukers: 3
+
+Vizunah Square
+W: 2  R: 4  Mo:4
+N: 4  Me:3  E: 3
+A: 4  Ri:3  P: 0  D: 0
+physical: 10
+spell_users: 17
+healers: 7
+melee: 6
+nukers: 3
+
+The Undercity
+W: 3  R: 2  Mo:3
+N: 4  Me:3  E: 5
+A: 2  Ri:2  P: 0  D: 0
+physical: 7
+spell_users: 17
+healers: 5
+melee: 5
+nukers: 5
+
+Pledge of the Merchant Princes
+W: 1  R: 0  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 3
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Heart of Abaddon
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 1  D: 1
+physical: 4
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Verdant Cascades
+W: 4  R: 4  Mo:2
+N: 2  Me:3  E: 0
+A: 1  Ri:0  P: 1  D: 0
+physical: 10
+spell_users: 7
+healers: 2
+melee: 5
+nukers: 0
+
+Sunjiang District (explorable area)
+W: 3  R: 5  Mo:4
+N: 4  Me:3  E: 3
+A: 4  Ri:2  P: 0  D: 0
+physical: 12
+spell_users: 16
+healers: 6
+melee: 7
+nukers: 3
+
+Urgoz's Warren
+W: 2  R: 3  Mo:6
+N: 1  Me:1  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 8
+spell_users: 12
+healers: 8
+melee: 5
+nukers: 2
+
+Drazach Thicket
+W: 3  R: 3  Mo:1
+N: 2  Me:4  E: 3
+A: 2  Ri:6  P: 0  D: 0
+physical: 8
+spell_users: 16
+healers: 7
+melee: 5
+nukers: 3
+
+Secrets in the Shadow
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 1
+healers: 0
+melee: 0
+nukers: 1
+
+The Frost Gate
+W: 5  R: 2  Mo:2
+N: 3  Me:2  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 10
+healers: 2
+melee: 5
+nukers: 3
+
+Cursed Lands
+W: 3  R: 3  Mo:5
+N: 2  Me:3  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 12
+healers: 5
+melee: 3
+nukers: 2
+
+The Deep
+W: 2  R: 3  Mo:2
+N: 1  Me:2  E: 1
+A: 5  Ri:3  P: 0  D: 0
+physical: 10
+spell_users: 9
+healers: 5
+melee: 7
+nukers: 1
+
+Icedome
+W: 2  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Ruins of Surmia
+W: 7  R: 5  Mo:3
+N: 5  Me:3  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 15
+healers: 3
+melee: 7
+nukers: 4
+
+Shenzun Tunnels
+W: 1  R: 2  Mo:3
+N: 2  Me:2  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 6
+spell_users: 11
+healers: 5
+melee: 4
+nukers: 2
+
+Raisu Palace (explorable area)
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 4
+melee: 4
+nukers: 2
+
+Gate of Pain
+W: 2  R: 1  Mo:1
+N: 1  Me:1  E: 3
+A: 0  Ri:0  P: 1  D: 1
+physical: 5
+spell_users: 6
+healers: 1
+melee: 3
+nukers: 3
+
+To the Rescue (Factions quest)
+W: 2  R: 2  Mo:1
+N: 1  Me:1  E: 1
+A: 2  Ri:1  P: 0  D: 0
+physical: 6
+spell_users: 5
+healers: 2
+melee: 4
+nukers: 1
+
+Minister Cho's Estate (explorable area)
+W: 9  R: 1  Mo:0
+N: 1  Me:1  E: 2
+A: 2  Ri:2  P: 0  D: 0
+physical: 12
+spell_users: 6
+healers: 2
+melee: 11
+nukers: 2
+
+Norrhart Domains
+W: 9  R: 4  Mo:3
+N: 5  Me:5  E: 2
+A: 0  Ri:0  P: 1  D: 1
+physical: 15
+spell_users: 15
+healers: 3
+melee: 10
+nukers: 2
+
+Consulate Docks
+W: 3  R: 2  Mo:1
+N: 1  Me:2  E: 2
+A: 0  Ri:0  P: 4  D: 3
+physical: 12
+spell_users: 6
+healers: 1
+melee: 6
+nukers: 2
+
+The Ebony Citadel of Mallyx
+W: 5  R: 3  Mo:2
+N: 3  Me:4  E: 4
+A: 1  Ri:0  P: 2  D: 4
+physical: 15
+spell_users: 13
+healers: 2
+melee: 10
+nukers: 4
+
+Green Hills County
+W: 3  R: 3  Mo:3
+N: 0  Me:0  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 5
+healers: 3
+melee: 3
+nukers: 2
+
+Kormir's Crusade
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 1  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 4
+healers: 1
+melee: 2
+nukers: 1
+
+Kodonur Crossroads
+W: 3  R: 1  Mo:2
+N: 3  Me:1  E: 2
+A: 0  Ri:0  P: 3  D: 3
+physical: 10
+spell_users: 8
+healers: 2
+melee: 6
+nukers: 2
+
+Diviner's Ascent
+W: 4  R: 3  Mo:1
+N: 3  Me:2  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 10
+healers: 1
+melee: 4
+nukers: 4
+
+The Falls
+W: 3  R: 6  Mo:1
+N: 2  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 7
+healers: 1
+melee: 3
+nukers: 2
+
+Garden of Seborhin
+W: 3  R: 3  Mo:3
+N: 2  Me:3  E: 3
+A: 0  Ri:0  P: 5  D: 2
+physical: 13
+spell_users: 11
+healers: 3
+melee: 5
+nukers: 3
+
+To Kryta: Journey's End
+W: 2  R: 1  Mo:0
+N: 2  Me:0  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 3
+healers: 0
+melee: 2
+nukers: 1
+
+Resplendent Makuun
+W: 2  R: 3  Mo:2
+N: 1  Me:1  E: 2
+A: 0  Ri:0  P: 4  D: 2
+physical: 11
+spell_users: 6
+healers: 2
+melee: 4
+nukers: 2
+
+The Dragon's Lair
+W: 4  R: 2  Mo:2
+N: 2  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 10
+healers: 2
+melee: 4
+nukers: 3
+
+Zehlon Reach
+W: 8  R: 3  Mo:5
+N: 4  Me:4  E: 6
+A: 0  Ri:0  P: 2  D: 3
+physical: 16
+spell_users: 19
+healers: 5
+melee: 11
+nukers: 6
+
+Ascalon Academy
+W: 1  R: 3  Mo:1
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 4
+spell_users: 1
+healers: 1
+melee: 1
+nukers: 0
+
+The Titan Source
+W: 7  R: 4  Mo:2
+N: 5  Me:4  E: 4
+A: 0  Ri:0  P: 0  D: 0
+physical: 11
+spell_users: 15
+healers: 2
+melee: 7
+nukers: 4
+
+The Sulfurous Wastes
+W: 6  R: 3  Mo:2
+N: 4  Me:3  E: 6
+A: 0  Ri:1  P: 4  D: 6
+physical: 19
+spell_users: 16
+healers: 3
+melee: 12
+nukers: 6
+
+Nahpui Quarter (explorable area)
+W: 1  R: 2  Mo:1
+N: 1  Me:1  E: 1
+A: 1  Ri:1  P: 0  D: 0
+physical: 4
+spell_users: 5
+healers: 2
+melee: 2
+nukers: 1
+
+Defend Denravi
+W: 0  R: 1  Mo:0
+N: 2  Me:0  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 5
+healers: 0
+melee: 0
+nukers: 3
+
+The Scar
+W: 8  R: 5  Mo:3
+N: 4  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 13
+spell_users: 13
+healers: 3
+melee: 8
+nukers: 3
+
+Calling the Order
+W: 1  R: 1  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+Twin Serpent Lakes
+W: 3  R: 3  Mo:4
+N: 3  Me:5  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 6
+spell_users: 15
+healers: 4
+melee: 3
+nukers: 3
+
+Jaga Moraine
+W: 6  R: 4  Mo:3
+N: 5  Me:3  E: 6
+A: 1  Ri:0  P: 0  D: 3
+physical: 14
+spell_users: 17
+healers: 3
+melee: 10
+nukers: 6
+
+War Preparations (Wind and Water)
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 1
+physical: 1
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+Melandru's Hope
+W: 4  R: 4  Mo:3
+N: 3  Me:1  E: 3
+A: 4  Ri:5  P: 0  D: 0
+physical: 12
+spell_users: 15
+healers: 8
+melee: 8
+nukers: 3
+
+Mamnoon Lagoon
+W: 1  R: 0  Mo:1
+N: 1  Me:1  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 3
+healers: 1
+melee: 1
+nukers: 0
+
+Boreas Seabed (explorable area)
+W: 4  R: 2  Mo:2
+N: 3  Me:1  E: 1
+A: 4  Ri:2  P: 0  D: 0
+physical: 10
+spell_users: 9
+healers: 4
+melee: 8
+nukers: 1
+
+Closer to the Stars
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 1  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+Panjiang Peninsula
+W: 3  R: 3  Mo:4
+N: 0  Me:2  E: 4
+A: 2  Ri:5  P: 0  D: 0
+physical: 8
+spell_users: 15
+healers: 9
+melee: 5
+nukers: 4
+
+Attack at the Kodash
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 0
+A: 0  Ri:0  P: 1  D: 1
+physical: 4
+spell_users: 3
+healers: 1
+melee: 2
+nukers: 0
+
+Witman's Folly
+W: 2  R: 1  Mo:2
+N: 2  Me:1  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 8
+healers: 2
+melee: 2
+nukers: 3
+
+To Tahnnakai Temple
+W: 1  R: 1  Mo:1
+N: 1  Me:1  E: 1
+A: 1  Ri:1  P: 0  D: 0
+physical: 3
+spell_users: 5
+healers: 2
+melee: 2
+nukers: 1
+
+Ring of Fire
+W: 4  R: 5  Mo:3
+N: 3  Me:5  E: 7
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 18
+healers: 3
+melee: 4
+nukers: 7
+
+Nebo Terrace
+W: 6  R: 5  Mo:5
+N: 7  Me:6  E: 6
+A: 0  Ri:0  P: 0  D: 0
+physical: 11
+spell_users: 24
+healers: 5
+melee: 6
+nukers: 6
+
+Nightfallen Garden
+W: 3  R: 3  Mo:3
+N: 3  Me:4  E: 3
+A: 0  Ri:0  P: 3  D: 4
+physical: 13
+spell_users: 13
+healers: 3
+melee: 7
+nukers: 3
+
+The Aurios Mines
+W: 0  R: 1  Mo:1
+N: 1  Me:0  E: 1
+A: 3  Ri:1  P: 0  D: 0
+physical: 4
+spell_users: 4
+healers: 2
+melee: 3
+nukers: 1
+
+Sunjiang District
+W: 3  R: 3  Mo:2
+N: 3  Me:2  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 9
+spell_users: 11
+healers: 4
+melee: 6
+nukers: 2
+
+Following the Trail
+W: 2  R: 2  Mo:1
+N: 2  Me:1  E: 1
+A: 0  Ri:0  P: 2  D: 0
+physical: 6
+spell_users: 5
+healers: 1
+melee: 2
+nukers: 1
+
+Ice Cliff Chasms
+W: 2  R: 3  Mo:1
+N: 1  Me:1  E: 4
+A: 0  Ri:0  P: 0  D: 2
+physical: 7
+spell_users: 7
+healers: 1
+melee: 4
+nukers: 4
+
+Seeking The Seer
+W: 0  R: 0  Mo:0
+N: 1  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 0
+spell_users: 1
+healers: 0
+melee: 0
+nukers: 0
+
+City of Torc'qua
+W: 1  R: 2  Mo:2
+N: 1  Me:1  E: 1
+A: 0  Ri:0  P: 3  D: 1
+physical: 7
+spell_users: 5
+healers: 2
+melee: 2
+nukers: 1
+
+Looking For Trouble
+W: 2  R: 1  Mo:1
+N: 1  Me:1  E: 2
+A: 1  Ri:1  P: 0  D: 0
+physical: 4
+spell_users: 6
+healers: 2
+melee: 3
+nukers: 2
+
+Prophet's Path
+W: 6  R: 3  Mo:4
+N: 4  Me:2  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 9
+spell_users: 15
+healers: 4
+melee: 6
+nukers: 5
+
+Tahnnakai Temple (explorable area)
+W: 1  R: 0  Mo:0
+N: 0  Me:1  E: 2
+A: 0  Ri:2  P: 0  D: 0
+physical: 1
+spell_users: 5
+healers: 2
+melee: 1
+nukers: 2
+
+Battledepths
+W: 0  R: 1  Mo:0
+N: 0  Me:0  E: 4
+A: 0  Ri:0  P: 0  D: 2
+physical: 3
+spell_users: 4
+healers: 0
+melee: 2
+nukers: 4
+
+Warning the Tengu
+W: 0  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 1  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+Fahranur, The First City
+W: 7  R: 3  Mo:3
+N: 2  Me:1  E: 3
+A: 0  Ri:0  P: 2  D: 3
+physical: 15
+spell_users: 9
+healers: 3
+melee: 10
+nukers: 3
+
+Horde of Darkness
+W: 1  R: 0  Mo:0
+N: 0  Me:0  E: 0
+A: 0  Ri:0  P: 0  D: 0
+physical: 1
+spell_users: 0
+healers: 0
+melee: 1
+nukers: 0
+
+The Mirror of Lyss
+W: 4  R: 3  Mo:1
+N: 2  Me:5  E: 4
+A: 0  Ri:0  P: 4  D: 6
+physical: 17
+spell_users: 12
+healers: 1
+melee: 10
+nukers: 4
+
+Wilderness of Bahdza
+W: 4  R: 5  Mo:3
+N: 5  Me:1  E: 3
+A: 0  Ri:0  P: 6  D: 2
+physical: 17
+spell_users: 12
+healers: 3
+melee: 6
+nukers: 3
+
+Talus Chute
+W: 9  R: 3  Mo:5
+N: 7  Me:3  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 12
+spell_users: 20
+healers: 5
+melee: 9
+nukers: 5
+
+Bukdek Byway
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 2
+A: 3  Ri:2  P: 0  D: 0
+physical: 7
+spell_users: 10
+healers: 4
+melee: 5
+nukers: 2
+
+Vulture Drifts
+W: 8  R: 2  Mo:2
+N: 4  Me:2  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 10
+spell_users: 13
+healers: 2
+melee: 8
+nukers: 5
+
+Scarred Earth
+W: 2  R: 0  Mo:0
+N: 1  Me:2  E: 1
+A: 0  Ri:0  P: 0  D: 0
+physical: 2
+spell_users: 4
+healers: 0
+melee: 2
+nukers: 1
+
+Gates of Kryta
+W: 3  R: 2  Mo:1
+N: 3  Me:3  E: 5
+A: 0  Ri:0  P: 0  D: 0
+physical: 5
+spell_users: 12
+healers: 1
+melee: 3
+nukers: 5
+
+Alcazia Tangle
+W: 2  R: 1  Mo:0
+N: 2  Me:2  E: 2
+A: 2  Ri:2  P: 0  D: 2
+physical: 7
+spell_users: 8
+healers: 2
+melee: 6
+nukers: 2
+
+Talmark Wilderness
+W: 2  R: 1  Mo:2
+N: 4  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 3
+spell_users: 10
+healers: 2
+melee: 2
+nukers: 2
+
+Fort Ranik
+W: 5  R: 2  Mo:3
+N: 4  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 11
+healers: 3
+melee: 5
+nukers: 2
+
+Lahtenda Bog
+W: 8  R: 5  Mo:4
+N: 4  Me:1  E: 3
+A: 0  Ri:0  P: 4  D: 2
+physical: 19
+spell_users: 12
+healers: 4
+melee: 10
+nukers: 3
+
+Morostav Trail
+W: 5  R: 6  Mo:4
+N: 7  Me:3  E: 6
+A: 4  Ri:3  P: 0  D: 0
+physical: 15
+spell_users: 23
+healers: 7
+melee: 9
+nukers: 6
+
+Jahai Bluffs
+W: 9  R: 5  Mo:4
+N: 4  Me:2  E: 6
+A: 0  Ri:0  P: 7  D: 4
+physical: 25
+spell_users: 16
+healers: 4
+melee: 13
+nukers: 6
+
+Shadow's Passage
+W: 3  R: 1  Mo:1
+N: 1  Me:2  E: 2
+A: 1  Ri:2  P: 0  D: 0
+physical: 5
+spell_users: 8
+healers: 3
+melee: 4
+nukers: 2
+
+The Alkali Pan
+W: 7  R: 3  Mo:3
+N: 3  Me:4  E: 5
+A: 0  Ri:0  P: 4  D: 5
+physical: 19
+spell_users: 15
+healers: 3
+melee: 12
+nukers: 5
+
+Stingray Strand
+W: 3  R: 4  Mo:2
+N: 3  Me:3  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 11
+healers: 2
+melee: 3
+nukers: 3
+
+Tahnnakai Temple
+W: 2  R: 2  Mo:2
+N: 2  Me:2  E: 3
+A: 1  Ri:2  P: 0  D: 0
+physical: 5
+spell_users: 11
+healers: 4
+melee: 3
+nukers: 3
+
+Skyward Reach
+W: 4  R: 3  Mo:1
+N: 0  Me:2  E: 2
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 5
+healers: 1
+melee: 4
+nukers: 2
+
+Dasha Vestibule
+W: 0  R: 0  Mo:0
+N: 0  Me:1  E: 3
+A: 0  Ri:0  P: 6  D: 3
+physical: 9
+spell_users: 4
+healers: 0
+melee: 3
+nukers: 3
+
+Archipelagos
+W: 1  R: 2  Mo:3
+N: 0  Me:1  E: 4
+A: 2  Ri:3  P: 0  D: 0
+physical: 5
+spell_users: 11
+healers: 6
+melee: 3
+nukers: 4
+
+Boreas Seabed
+W: 4  R: 4  Mo:4
+N: 2  Me:4  E: 2
+A: 2  Ri:1  P: 0  D: 0
+physical: 10
+spell_users: 13
+healers: 5
+melee: 6
+nukers: 2
+
+Xaquang Skyway
+W: 2  R: 0  Mo:2
+N: 2  Me:1  E: 1
+A: 2  Ri:2  P: 0  D: 0
+physical: 4
+spell_users: 8
+healers: 4
+melee: 4
+nukers: 1
+
+The Floodplain of Mahnkelon
+W: 7  R: 7  Mo:5
+N: 7  Me:3  E: 5
+A: 1  Ri:0  P: 3  D: 3
+physical: 21
+spell_users: 20
+healers: 5
+melee: 11
+nukers: 5
+
+D'Alessio Seaboard
+W: 4  R: 3  Mo:4
+N: 4  Me:4  E: 3
+A: 0  Ri:0  P: 0  D: 0
+physical: 7
+spell_users: 15
+healers: 4
+melee: 4
+nukers: 3
