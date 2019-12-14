@@ -1,7 +1,7 @@
 scrapy2
 ==============================
 
-Spider a wiki
+A spider searches over 400 pages on a video game wiki.  Count the number of different types of enemies in each location, and output the results in a text file.
 
 Project Organization
 ------------
