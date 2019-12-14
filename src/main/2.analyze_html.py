@@ -1,7 +1,13 @@
 # Extract Text
 import os
+from shutil import copyfile
 from bs4 import BeautifulSoup
 
+# Copy manually extracted html files
+for filename in os.listdir("manual_html"):
+    copyfile("manual_html/{}".format(filename), "html/{}".format(filename))
+
+# Read all html files
 text = []
 for filename in os.listdir("html"):
     html = open("html/{}".format(filename)).read()
@@ -9,8 +15,11 @@ for filename in os.listdir("html"):
     for script in soup(["script", "style"]):
         script.decompose()
     location = soup.title.text.split(" - ")[0]
-    html = html[html.index('id="Foes"'):]
     print(location)
+    try:
+        html = html[html.index('id="Foes"'):]
+    except:
+        continue
     # print(html)
     classes = [0]*10
     classes[0] = int(html.count("Warrior-tango-icon-20.png")/2)
@@ -28,7 +37,10 @@ for filename in os.listdir("html"):
     nukers = classes[5]
     melee = classes[0] + classes[6] + classes[9]
     healers = classes[2] + classes[7]
-    string = str(classes) + "\n" + \
+    string = location + "\n" + \
+    "W: " + str(classes[0]) + "  R: " + str(classes[1]) + "  Mo:" + str(classes[2]) + "\n" + \
+    "N: " + str(classes[3]) + "  Me:" + str(classes[4]) + "  E: " + str(classes[5]) + "\n" + \
+    "A: " + str(classes[6]) + "  Ri:" + str(classes[7]) + "  P: " + str(classes[8]) + "  D: " + str(classes[9]) + "\n" + \
     "physical: " + str(physical) + "\n" + \
     "spell_users: " + str(spell_users) + "\n" + \
     "healers: " + str(healers) + "\n" + \
